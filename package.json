@@ -1,0 +1,27 @@
+{
+  "name": "noflo-nodejs-srv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "noflo-nodejs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rewasa/noflo-nodejs.git"
+  },
+  "keywords": [
+    "noflo"
+  ],
+  "author": "r.wasescha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rewasa/noflo-nodejs/issues"
+  },
+  "homepage": "https://github.com/rewasa/noflo-nodejs#readme",
+  "dependencies": {
+    "noflo": "^0.7.9",
+    "noflo-core": "^0.2.3",
+    "noflo-nodejs": "^0.7.2"
+  }
+}
